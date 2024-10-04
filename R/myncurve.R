@@ -7,6 +7,7 @@
 #' @return A plot with the area to a and a list containing the mean, standard deviation,
 #'  and area
 #' @export
+#' @import stats
 #'
 #' @examples
 #' \dontrun{mycurve(10,5,3)}

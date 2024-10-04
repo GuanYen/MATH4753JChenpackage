@@ -3,3 +3,6 @@
 export(mybin)
 export(myncurve)
 export(scatterhist)
+import(grDevices)
+import(graphics)
+import(stats)
