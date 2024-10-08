@@ -2,7 +2,9 @@
 
 export(mybin)
 export(myncurve)
+export(ntickets)
 export(scatterhist)
+import(ggplot2)
 import(grDevices)
 import(graphics)
 import(stats)

@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(MATH4753)
+library(MATH4753JChen)
 
-test_check("MATH4753")
+test_check("MATH4753JChen")

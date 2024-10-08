@@ -1,4 +1,4 @@
-Package: MATH4753
+Package: MATH4753JChen
 Type: Package
 Title: What the Package Does (Title Case)
 Version: 0.1.0
@@ -13,3 +13,4 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 License: MIT + file LICENSE
+Imports: ggplot2
