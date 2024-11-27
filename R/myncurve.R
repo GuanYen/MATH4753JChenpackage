@@ -10,7 +10,7 @@
 #' @import stats
 #'
 #' @examples
-#' \dontrun{mycurve(10,5,3)}
+#' \dontrun{myncurve(10,5,3)}
 myncurve = function(mu, sigma, a){
   curve(dnorm(x,mean=mu,sd=sigma), xlim = c(mu-3*sigma, mu + 3*sigma))
 
