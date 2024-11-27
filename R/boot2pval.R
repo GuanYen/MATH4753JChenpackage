@@ -11,7 +11,7 @@
 #' @export
 #'
 #' @examples
-#' \dontrun{boot2val(y1,x1,mudiff=2)}
+#' \dontrun{boot2pval(y1,x1,mudiff=2)}
 boot2pval<-function(x1,x2,conf.level=0.95,iter=3000,mudiff=0, test="two"){
   n1=length(x1)
   n2=length(x2)
