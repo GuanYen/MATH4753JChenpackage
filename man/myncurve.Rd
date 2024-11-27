@@ -21,5 +21,5 @@ A plot with the area to a and a list containing the mean, standard deviation,
 Normal Distribution
 }
 \examples{
-\dontrun{mycurve(10,5,3)}
+\dontrun{myncurve(10,5,3)}
 }

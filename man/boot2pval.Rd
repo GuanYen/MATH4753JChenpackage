@@ -26,5 +26,5 @@ A plot showing RAR (Reject, Accept, Reject) regions
 P-Value of Difference in Mean of Two Populations
 }
 \examples{
-\dontrun{boot2val(y1,x1,mudiff=2)}
+\dontrun{boot2pval(y1,x1,mudiff=2)}
 }
